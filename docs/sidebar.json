@@ -1,5 +1,6 @@
 {
-  "rl-playground": {
-    "Overview": "/"
+  "rlplay": {
+    "Overview": "/",
+    "Core": "/core"
   }
 }
