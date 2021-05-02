@@ -8,6 +8,7 @@ def hello():
 
 # Cell
 import numpy as np
+
 class uniform_gravity_2d():
     def __init__(self,g=9.8):
         self.g=g
